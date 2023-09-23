@@ -1,9 +1,5 @@
-const word = '';
-const reverseString = function(word) {
-    arrayWord = word.split('');
-    reversedArrayWord = arrayWord.reverse();
-    reversedArrayWord = reversedArrayWord.join('');
-    return reversedArrayWord;
+const reverseString = function() {
+
 };
 
 // Do not edit below this line
