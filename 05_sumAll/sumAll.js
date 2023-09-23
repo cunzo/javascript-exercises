@@ -17,20 +17,5 @@ const sumAll = function(arg1,arg2) {
     return sum;
 };
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Do not edit below this line
 module.exports = sumAll;
